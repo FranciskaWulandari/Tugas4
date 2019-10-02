@@ -1,0 +1,93 @@
+.kiri {
+    background:rgb(238, 142, 142);
+}
+.kanan {
+    background: rgb(243, 243, 157);
+}
+
+.banner {
+    text-align: center;
+}
+
+.card {
+    margin: 0 10px;
+}
+
+.form {
+    margin: 40px 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.jarak {
+    margin-top: 30px;
+}
+
+footer {
+    background: rgb(115, 212, 250);
+    color: rgb(12, 12, 12);
+    padding: 30px;
+} 
+body{
+    margin:0px auto;
+    padding:0px;
+    background-color:#F2F2F2;}
+    a, h1, h2, h3, h4  {color:#000000;}
+    .vtr-menu-icon {background-color: #000000;}
+    .vtr-menu  li.active > a,.vtr-menu  li.active,
+    .vtr-menu  li:hover > a {
+        background-color: #000000;
+        }
+    .wp-pagenavi a:hover{
+        color:#FFFFFF;
+        background-color:#000000;
+        }
+    .current{color:#FFFFFF;background-color:#000000;}
+    .cart i.icon-basket {color:#000000;}
+    @media screen and (min-width: 685px) {
+        .cart a{
+            color:#000000;
+            }
+            .btn a{
+        color: #FFF;
+    }
+    .btn-cart a{
+        color: #fff;
+        }
+        .btn-cart i a{
+        color: #fff;
+        }
+    
+    }
+    #marquee {
+        color: #fff;
+        font-weight:bold;
+        background-color: #000000;
+        }
+    #footbar{
+        border-top-width: 5px;
+        border-top-style: solid;
+        border-top-color: #000000;
+        }
+    .search-button {
+        background-color: #000000;
+        }
+    .sidebar-menu-icon {background-color: #000000;}
+    .sidebar h4{background-color: #E5E5E5;}
+    .sidebar .box ul li a:hover{ color: #000000; }
+    .wp-niaga-harga{ color:#000000; }
+    .btn{ background-color: #000000; }
+    .btn:disabled {background: #666;} 
+    .btn-kiri{background-color: #e80000; }
+    .btn-kanan{background-color: #000000; }
+    .button-widget-link{color:#000000;}
+    .telp-number{color:#000000;}
+    .tombol-sms{background-color:#000000;}
+    .tombol-email{background-color:#e80000;}
+    .vtr-title{color: #000000;}
+    #status li.active {	background-color:#000000;color: #fff;}
+    .top-header{background-color:#000000;}
+    .footer{background-color:#000000;}
+    
+    .font {
+        color: rgb(3, 113, 117)}
